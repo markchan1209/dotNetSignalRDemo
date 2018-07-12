@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/dotNetSignalRDemo/bin
+/packages
+/dotNetSignalRDemo/obj/Debug
